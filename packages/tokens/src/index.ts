@@ -1,4 +1,4 @@
-// import { colors } from '@ignite-ui-ac/tokens/colors -> 
+// import { colors } from '@ignite-ui-ac/tokens/colors ->
 // import { colors } from '@ignite-ui-ac/tokens
 
 export * from './colors'
