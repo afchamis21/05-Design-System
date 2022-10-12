@@ -9,6 +9,13 @@ export default {
     src: 'https://github.com/afchamis21.png',
     alt: 'André Chamis',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
