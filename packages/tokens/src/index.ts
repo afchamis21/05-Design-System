@@ -1,5 +1,5 @@
-// import { colors } from '@ignite-ui-ac/tokens/colors ->
-// import { colors } from '@ignite-ui-ac/tokens
+// import { colors } from '@afchamis-ui-ac/tokens/colors ->
+// import { colors } from '@afchamis-ui-ac/tokens
 
 export * from './colors'
 
