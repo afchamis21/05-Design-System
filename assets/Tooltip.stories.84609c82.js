@@ -1,0 +1,2 @@
+import{e as o,T as t}from"./index.34278af5.js";import{j as r}from"./jsx-runtime.2ddfad88.js";import"./index.1dc0ee2b.js";import"./iframe.047e152a.js";import"./index.6f568538.js";const l={title:"Surfaces/Tooltip",component:o,args:{children:r(t,{children:"This is a sample Tooltip text"})},argTypes:{children:{control:{type:null}}}},m={},n=["Primary"];export{m as Primary,n as __namedExportsOrder,l as default};
+//# sourceMappingURL=Tooltip.stories.84609c82.js.map
