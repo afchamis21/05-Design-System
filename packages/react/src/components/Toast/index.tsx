@@ -20,3 +20,5 @@ export function Toast({ message, title }: ToastProps) {
     </ToastContainer>
   )
 }
+
+Toast.displayName = 'Toast'
